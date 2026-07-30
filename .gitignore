@@ -55,8 +55,8 @@ tsconfig.tsbuildinfo
 # Lock files (keep package-lock.json, ignore pnpm if using npm)
 pnpm-lock.yaml
 # Editor
-.vscode/
 .idea/
 
 # OS
 Thumbs.db
+config.bat
